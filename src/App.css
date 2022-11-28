@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+
+.App {
+	font-family: "Rubik", sans-serif;
+}
+.head {
+	background-image: url(./images/pattern-bg.png);
+	height: 40vh;
+}
+.lap {
+	margin-top: -1px;
+}
